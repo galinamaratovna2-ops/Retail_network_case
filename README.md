@@ -13,7 +13,9 @@ This case deals with analysis of the retail network operations by tracking of th
 
 — Рассчитала коэффициенты прироста и динамику ключевых метрик по периодам.
 
-— Построила интерактивные дашборды и графики в Google Sheets, визуализирующие результаты анализа.
+— Построила интерактивные дашборды и графики в Google Sheets, визуализирующие результаты анализа. 
+Ссылка на Google Disk: 
+https://docs.google.com/spreadsheets/d/1Xllm5Jm6X4uUtpfOA4Yol1cDy9Gw_99MGhZXz-VNt5E/edit?usp=drive_link
 
 Используемые инструменты: Excel, Google Sheets, функции QUERY, сводные таблицы, визуализации (графики, дашборды).
 
